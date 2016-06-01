@@ -1,0 +1,23 @@
+{
+  "name": "webcomponents_sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tree": "tree -I node_modules -I bower_components",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legokichi/webcomponents_sandbox.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/legokichi/webcomponents_sandbox/issues"
+  },
+  "homepage": "https://github.com/legokichi/webcomponents_sandbox#readme",
+  "dependencies": {
+    "webcomponents.js": "^0.7.22"
+  }
+}
